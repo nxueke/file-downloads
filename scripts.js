@@ -1,7 +1,12 @@
 document.addEventListener('DOMContentLoaded', function() {
     const fileList = [
-        { name: '上册资料登记审批表', url: 'files/上册资料审批表' },
-        { name: '会议签到表', url: 'files/会议签到表' },
+        { name: '01 三门峡市二次供水设备“报备”信息登记表.doc', url: 'files/01 三门峡市二次供水设备“报备”信息登记表.doc' },
+        { name: '02 三门峡市二次供水设施基础信息登记表-1;（1-2正反面打印）.doc', url: 'files/02 三门峡市二次供水设施基础信息登记表-1;（1-2正反面打印）.doc' },
+        { name: '03 三门峡市二次供水设备验收登记表-2；(1-2正反面打印）.doc', url: 'files/03 三门峡市二次供水设备验收登记表-2；(1-2正反面打印）.doc' },
+        { name: '04 三门峡市二次供水申请表-正反面打印.doc', url: 'files/04 三门峡市二次供水申请表-正反面打印.doc' },
+        { name: '05 三门峡市二次供水项目审批表-正反面打印.doc', url: 'files/05 三门峡市二次供水项目审批表-正反面打印.doc' },
+	    { name: '06 会议签到表（新）.doc', url: 'files/06 会议签到表（新）.doc' },
+
 
     ];
 
@@ -18,3 +23,4 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
 });
+
